@@ -1,0 +1,4 @@
+v 1
+d findstar Author: Snowman Zhang
+
+p FINDSTAR: 本指令用于在实证中遍历所有给定变量的排列组合，以期寻找显著性最佳的回归方程。
